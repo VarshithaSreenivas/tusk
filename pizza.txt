@@ -7,3 +7,9 @@ Recipe from Navin Reddy
 2. Select the pizza.
 3. Order
 
+make a order in amazon
+ 1.go to website
+ 2.choose the product 
+ 3. click buy now
+ 4.enter the details
+ 5.confirm order
